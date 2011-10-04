@@ -1,1 +1,5 @@
-This file was created by PyCharm 1.5.4 for binding GitHub repository
+Python tool to work as a Connection Manager for routers.
+It can be used to run diagnostics on routers and perform necessary actions to fix any issues.
+
+Currently supports the following router(s):
+    LinkSys WAG120N
